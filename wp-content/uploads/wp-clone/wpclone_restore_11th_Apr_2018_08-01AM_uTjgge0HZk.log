@@ -1,0 +1,24 @@
+Wednesday, 11-Apr-2018 08:01:14 - restore started
+Wednesday, 11-Apr-2018 08:01:14 - wp version     : 4.9.5
+Wednesday, 11-Apr-2018 08:01:14 - php version    : 5.6.31
+Wednesday, 11-Apr-2018 08:01:14 - mysql version  : 5.5.5
+Wednesday, 11-Apr-2018 08:01:14 - memory limit   : 1024M
+Wednesday, 11-Apr-2018 08:01:14 - execution time : 600
+Wednesday, 11-Apr-2018 08:01:14 - mysql timeout  : 600
+Wednesday, 11-Apr-2018 08:01:14 - socket timeout : 600
+Wednesday, 11-Apr-2018 08:01:14 - file download started
+Wednesday, 11-Apr-2018 08:02:46 - download finished, filesize - 132.21 MB
+Wednesday, 11-Apr-2018 08:02:46 - extracting database using ziparchive
+Wednesday, 11-Apr-2018 08:02:46 - changing prefix from "wp_" to "united_tribe_"
+Wednesday, 11-Apr-2018 08:02:46 - database import started
+Wednesday, 11-Apr-2018 08:02:48 - updating mysql query with current site's url - new query : "INSERT INTO united_tribe_options VALUES("1", "siteurl", "http://localhost/united-new", "yes")"
+Wednesday, 11-Apr-2018 08:06:24 - mysql query failed. error : 1065 Query was empty - query : ""
+Wednesday, 11-Apr-2018 08:06:24 - database import finished
+Wednesday, 11-Apr-2018 08:06:24 - search and replace started
+Wednesday, 11-Apr-2018 08:06:24 - there are 14 tables to scan
+Wednesday, 11-Apr-2018 08:07:09 - search and replace finished
+Wednesday, 11-Apr-2018 08:07:09 - extracting archive using ziparchive
+Wednesday, 11-Apr-2018 08:07:56 - copying files..
+Wednesday, 11-Apr-2018 08:09:00 - deleting temp directory..
+Wednesday, 11-Apr-2018 08:09:15 - deleting downloaded zip file..
+Wednesday, 11-Apr-2018 08:09:15 - restore finished

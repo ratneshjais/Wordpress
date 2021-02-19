@@ -1,0 +1,70 @@
+@import "variables";
+@font-face {
+  font-family: 'poppins-semi-bold';
+  src: url('../fonts/Poppins-SemiBold.ttf'),url('../fonts/Poppins-SemiBold.woff'),url('../fonts/Poppins-SemiBold.woff2');
+}
+@font-face {
+  font-family: 'poppins-medium';
+  src: url('../fonts/Poppins-Medium.ttf'),url('../fonts/Poppins-Medium.woff'),url('../fonts/Poppins-Medium.woff2');
+}
+@font-face {
+  font-family: 'poppins-bold';
+  src: url('../fonts/Poppins-Bold.ttf'),url('../fonts/Poppins-Bold.woff'),url('../fonts/Poppins-Bold.woff2');
+}
+@font-face {
+  font-family: 'poppins-regular';
+  src: url('../fonts/Poppins-Regular.ttf'),url('../fonts/Poppins-Regular.woff'),url('../fonts/Poppins-Regular.woff2');
+}
+@font-face {
+  font-family: 'Nunito-bold';
+  src: url('../fonts/NunitoSans-Bold.ttf'),url('../fonts/NunitoSans-Bold.woff'),url('../fonts/NunitoSans-Bold.woff2');
+}
+@font-face {
+  font-family: 'Nunito-Extrabold';
+  src: url('../fonts/NunitoSans-ExtraBold.ttf'),url('../fonts/NunitoSans-ExtraBold.woff'),url('../fonts/NunitoSans-ExtraBold.woff2');
+}
+@font-face {
+  font-family: 'Nunito-Semibold';
+  src: url('../fonts/NunitoSans-SemiBold.ttf'),url('../fonts/NunitoSans-SemiBold.woff'),url('../fonts/NunitoSans-SemiBold.woff2');
+}
+@font-face {
+  font-family: 'pt-sansbold';
+  src: url('../fonts/pt-sansbold.ttf'),url('../fonts/pt-sansbold.woff'),url('../fonts/pt-sansbold.woff2');
+}
+@font-face {
+  font-family: 'pt-sansregular';
+  src: url('../fonts/pt-sansregular.ttf'),url('../fonts/pt-sansregular.woff'),url('../fonts/pt-sansregular.woff2');
+}
+@font-face {
+  font-family: 'pt-serifbold';
+  src: url('../fonts/PTF75F.ttf'),url('../fonts/PTF75F.woff'),url('../fonts/PTF75F.woff2');
+}
+
+body,
+html {
+  height: 100%;
+}
+
+h1 {
+  font-size: $text-xl;
+  font-family: 'Nunito-Extrabold';
+}
+
+h2 {
+  font-size: $text-l;
+  font-family: 'pt-sansbold';
+}
+
+.clearfix::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.pos-r {
+  position: relative;
+}
+
+.no-padding {
+  padding: 0;
+}

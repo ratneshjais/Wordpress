@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>rss</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UT-PodcastInnerpage01" transform="translate(-832.000000, -548.000000)" fill="#F05228" fill-rule="nonzero">
+            <g id="Group-15" transform="translate(744.000000, 544.000000)">
+                <g id="rss" transform="translate(88.000000, 4.000000)">
+                    <path d="M23.9607488,23.9605714 L18.8268768,23.9605714 C18.8268768,13.5795665 10.3811232,5.13434483 0.000177339901,5.13434483 L0.000177339901,0 C13.212532,0 23.9607488,10.7484532 23.9607488,23.9605714 Z" id="Shape"></path>
+                    <path d="M15.1361379,23.9605714 L10.0014975,23.9605714 C10.0014975,18.4455961 5.51533005,13.9591921 0.000118226601,13.9591921 L0.000118226601,8.82508374 C8.34650246,8.82508374 15.1361379,15.6142463 15.1361379,23.9605714 Z" id="Shape"></path>
+                    <circle id="Oval" cx="2.88827586" cy="21.0727094" r="2.88815764"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
